@@ -1,0 +1,9 @@
+namespace Testprogect1Assembler
+{
+    [default_interface]
+    runtimeclass Asm_Tools : Windows.UI.Xaml.Controls.Page
+    {
+        Asm_Tools();
+        Int32 MyProperty;
+    }
+}
